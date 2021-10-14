@@ -1,0 +1,8 @@
+body{
+    padding: 4rem;;
+}
+.container{
+    border: black solid 1px;
+    padding: 5rem;
+    box-shadow: 0.9rem 2rem;
+}
